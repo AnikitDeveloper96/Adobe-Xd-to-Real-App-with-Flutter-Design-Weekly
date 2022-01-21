@@ -1,5 +1,5 @@
 
-# Adobe Xd to Real App with Flutter | Adobe XD TO Flutter | Design Weekly
+# Adobe Xd to Real App with Flutter | Design Weekly
  
 In this tutorial, I will be showing you how to create simple login screen with 
 adobe_xd to Flutter Plugin directly from Scratch in Flutter without using any library.
