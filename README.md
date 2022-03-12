@@ -20,7 +20,8 @@ adobe_xd to Flutter Plugin directly from Scratch in Flutter without using any li
 
 <img height="480px" width="244px" src="https://user-images.githubusercontent.com/90831339/138520956-0d6dbb66-3dcc-4c4b-9856-cbb97c4b375d.jpg">
 
-# [Live Preview](https://www.youtube.com/watch?v=C0pQt4kqOlQ&list=PLj518-AUxFs8CXkdY2b4DAj36qllDzmhh&index=1)
+Full Tutorial on Youtube https://www.youtube.com/watch?v=C0pQt4kqOlQ
+
 
 
 Do ⭐ the repo it really motivates me to share more open source
